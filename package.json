@@ -1,0 +1,26 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "the simplest possible url shortener: just using _redirects file and netlify for my (free) CDN powered url shortener",
+  "main": "cli.js",
+  "homepage": "https://github.com/dmies/url-shortener#readme",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmies/url-shortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dmies/url-shortener/issues"
+  },
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  },
+  "bin": {
+    "shorten": "cli.js"
+  }
+}
