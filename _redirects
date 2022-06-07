@@ -1,4 +1,5 @@
-/feed                     https://zenzes.me/feed.xml
+/feed                     https://zenzes.me/api/rss.xml
+/frontend-for-backend     https://zenzes.me/blog/2022-06-07_hello-frontend
 /trends2021-em            https://entwickler.de/javascript/aus-dem-entwickler-nahkastchen
 /jamstack-em21            https://entwickler.de/javascript/was-ist-der-jamstack-001
 /svelte-em21              https://entwickler.de/javascript/svelte-in-produktion
