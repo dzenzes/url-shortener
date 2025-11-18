@@ -5,6 +5,8 @@
 /jamstack-em21 https://entwickler.de/javascript/was-ist-der-jamstack-001
 /svelte-em21 https://entwickler.de/javascript/svelte-in-produktion
 /sveltekit-em22 https://entwickler.de/webentwicklung/svelte-webanwendungen-sveltekit
+/svelte-interview-em https://entwickler.de/javascript/javascript-framework-svelte
+/pinia-em https://entwickler.de/vuejs/pinia-vuex-state-management-vue
 /svelte-state-cc-en https://blog.codecentric.de/en/2020/02/state-management-svelte/
 /svelte-state-cc-de https://blog.codecentric.de/2020/02/state-management-in-svelte/
 /svelte-intro-cc-de https://blog.codecentric.de/2020/02/gleich-und-doch-anders-einfuehrung-in-svelte/
@@ -24,5 +26,6 @@
 /pair-costs https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
 /testing-template https://github.com/dzenzes/tdd-typescript-jest
 /pinia-sample https://vuex-pinia-sample.netlify.app/
+/why-i-show-my-pronouns https://ichi.pro/de/ihre-worte-sind-wichtig-die-bedeutung-von-pronomen-in-der-welt-und-am-arbeitsplatz-174665886805445
 #fallback
 /\* https://zenzes.me
